@@ -1,6 +1,6 @@
     # string concatenation
 
-adj = input("Adjective:                                                              ")
+adj = input("Adjective:                                                             ")
 verb1 = input("verb: ")
 verb2= input("verb: ")
 famous_person = input("Famous person:")
